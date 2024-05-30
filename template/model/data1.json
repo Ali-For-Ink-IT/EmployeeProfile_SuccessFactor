@@ -1,0 +1,111 @@
+{
+  "employeeName": "Marlin Johnathan",
+  "employeePhoto": "https://images.unsplash.com/photo-1573497491765-dccce02b29df?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGVtcGxveWVlfGVufDB8fDB8fHww",
+  "salary": "$90000",
+  "salutation": "Ms.",
+  "phoneNumber": "9148101693",
+  "documentNumber": "Doc ref number",
+  "payGrade": "A1",
+  "position": "Senior Consultant",
+  "originalDepartment": "originalDepartment",
+  "decreeIssueDate": "Decree Issue Date",
+
+  "headers": [
+    {
+      "headerTitle": "الخيات العملية",
+      "fulldetails": [
+        {
+          "year": "2019",
+          "details": {
+            "detailTitle": "حيت",
+            "detailDiscription": "باحث قانون – إدارة"
+          }
+        }
+      ]
+    },
+    {
+      "headerTitle": "الشهادات العلمية",
+      "fulldetails": [
+        {
+          "year": "2001",
+          "details": {
+            "detailTitle": "يونيو",
+            "detailDiscription": "كالوريوس فلقانون"
+          }
+        },
+        {
+          "year": "2010",
+          "details": {
+            "detailTitle": "سبتمبر",
+            "detailDiscription": "ماجستير - العلاقات الدولية"
+          }
+        }
+      ]
+    },
+    {
+      "headerTitle": "الشهادات العلمية",
+      "fulldetails": [
+        {
+          "year": "2022",
+          "details": {
+            "detailTitle": "فياير",
+            "detailDiscription": " ورشة حول : الجمعية العامة ، محكمة العدل الدولية ، الأمانة العامة"
+          }
+        },
+        {
+          "year": "2021",
+          "details": {
+            "detailTitle": "وفمايو",
+            "detailDiscription": "محاضرة بمناسبة اليوم العالمي للسكري"
+          }
+        },
+        {
+          "year": "2021",
+          "details": {
+            "detailTitle": "يوليو",
+            "detailDiscription": "Public International Law 2021"
+          }
+        },
+        {
+          "year": "2020",
+          "details": {
+            "detailTitle": "نوفمبر",
+            "detailDiscription": " الأمن الدبلوماسي"
+          }
+        },
+
+        {
+          "year": "2020",
+          "details": {
+            "detailTitle": "مايو",
+            "detailDiscription": "UNGA برنامج الجمعية العامة للأمم المتحدة"
+          }
+        }
+      ]
+    },
+    {
+      "headerTitle": "الشهادات العلمية",
+      "fulldetails": [
+        {
+          "year": "2022",
+          "details": { "detailTitle": "يلتالتوقعات", "detailDiscription": "" }
+        },
+        {
+          "year": "2020",
+          "details": {
+            "detailTitle": "يلفوق التوقعات",
+            "detailDiscription": ""
+          }
+        },
+        {
+          "year": "2021",
+          "details": { "detailTitle": "يللتوقعات", "detailDiscription": "" }
+        },
+        {
+          "year": "2019",
+          "details": { "detailTitle": "يللتوقعات", "detailDiscription": "" }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "headers": [
+    {
+      "headerTitle": "الخيات العملية",
+      "fulldetails": [
+        {
+          "year": "2019",
+          "details": {
+            "detailTitle": "حيت",
+            "detailDiscription": "باحث قانون – إدارة"
+          }
+        }
+      ]
+    },
+    {
+      "headerTitle": "الشهادات العلمية",
+      "fulldetails": [
+        {
+          "year": "2001",
+          "details": {
+            "detailTitle": "يونيو",
+            "detailDiscription": "كالوريوس فلقانون"
+          }
+        },
+        {
+          "year": "2010",
+          "details": {
+            "detailTitle": "سبتمبر",
+            "detailDiscription": "ماجستير - العلاقات الدولية"
+          }
+        }
+      ]
+    },
+    {
+      "headerTitle": "الشهادات العلمية",
+      "fulldetails": [
+        {
+          "year": "2022",
+          "details": {
+            "detailTitle": "فياير",
+            "detailDiscription": " ورشة حول : الجمعية العامة ، محكمة العدل الدولية ، الأمانة العامة"
+          }
+        },
+        {
+          "year": "2021",
+          "details": {
+            "detailTitle": "وفمايو",
+            "detailDiscription": "محاضرة بمناسبة اليوم العالمي للسكري"
+          }
+        },
+        {
+          "year": "2021",
+          "details": {
+            "detailTitle": "يوليو",
+            "detailDiscription": "Public International Law 2021"
+          }
+        },
+        {
+          "year": "2020",
+          "details": {
+            "detailTitle": "نوفمبر",
+            "detailDiscription": " الأمن الدبلوماسي"
+          }
+        },
+        {
+          "year": "2020",
+          "details": {
+            "detailTitle": "يونيو",
+            "detailDiscription": "البحث عن المعلومات وتحليلها لكتابة تقارير الدول"
+          }
+        },
+        {
+          "year": "2020",
+          "details": {
+            "detailTitle": "مايو",
+            "detailDiscription": " ورشة تخصصية بالقانون الدولي"
+          }
+        },
+        {
+          "year": "2020",
+          "details": {
+            "detailTitle": "مايو",
+            "detailDiscription": "UNGA برنامج الجمعية العامة للأمم المتحدة"
+          }
+        }
+      ]
+    },
+    {
+      "headerTitle": "الشهادات العلمية",
+      "fulldetails": [
+        {
+          "year": "2022",
+          "details": { "detailTitle": "يلتالتوقعات", "detailDiscription": "" }
+        },
+        {
+          "year": "2020",
+          "details": {
+            "detailTitle": "يلفوق التوقعات",
+            "detailDiscription": ""
+          }
+        },
+        {
+          "year": "2021",
+          "details": { "detailTitle": "يللتوقعات", "detailDiscription": "" }
+        },
+        {
+          "year": "2019",
+          "details": { "detailTitle": "يللتوقعات", "detailDiscription": "" }
+        }
+      ]
+    }
+  ]
+}
